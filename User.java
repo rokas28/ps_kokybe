@@ -7,6 +7,7 @@ import java.util.ArrayList;
  */
 /**
  *
+ *
  * @author 56130
  */
 public class User {
