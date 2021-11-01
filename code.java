@@ -54,6 +54,5 @@ public class User {
 
     public String getLastName() {
         return lastName;
-//wfw
     }
 }
